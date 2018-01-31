@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//baike_spider/html_downloader.py=utf-8
+encoding//baike_spider/html_outputer.py=utf-8
+encoding//baike_spider/html_parser.py=utf-8
+encoding//baike_spider/spider_main.py=utf-8
+encoding//baike_spider/url_manager.py=utf-8
+encoding//others/News.py=utf-8
+encoding//others/catch_test.py=utf-8
+encoding//others/muke_practice.py=utf-8
+encoding//others/python_catch.py=utf-8
+encoding//others/test1.py=utf-8
+encoding//others/test2.py=utf-8
+encoding//others/text.txt=UTF-8
+encoding//sina_nab_spider/html_parser.py=utf-8
+encoding//sina_nab_spider/spider_main.py=utf-8
+encoding//sina_nab_spider/url_manager.py=utf-8
+encoding/<project>=UTF-8
